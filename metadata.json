@@ -1,0 +1,6 @@
+{
+  "name": "AI Cost Detective",
+  "description": "Enterprise cloud cost analytics, statistical anomaly detection, root-cause investigation, and FinOps optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
